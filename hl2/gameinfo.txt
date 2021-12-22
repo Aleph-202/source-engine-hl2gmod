@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Garry's Mod"
-	title 		"Garry's Mod"
+	game 		"Garrys-Mod"
+	title 		"Garrys-Mod"
 	type		singleplayer_only
 
 
